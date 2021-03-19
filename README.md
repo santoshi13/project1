@@ -1,12 +1,7 @@
 # project1
 demo project 
-santoshi
+<h1> santoshi
+Y19IT013
 himasantoshi11@gmail.com
-IT
-# RVR&JC_IT
-## RVR&JC_IT
-### RVR&JC_IT
-#### RVR&JC_IT
-##### RVR&JC_IT
-###### RVR&JC_IT
-####### RVR&JC_IT
+IT </h2>
+<h2> GUNTUR </h2>
